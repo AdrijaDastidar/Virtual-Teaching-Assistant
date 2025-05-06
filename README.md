@@ -116,52 +116,6 @@ VTA offers an integrated solution to these problems through the power of **LLMs*
 
 ---
 
-## 🧠 Intelligence Layer: LLMs in Action
-
-- VTA uses **LLaMA3-8B via Groq API**, chosen for its performance on:
-  - **Instruction following**
-  - **Semantic comprehension**
-  - **Quiz-style prompting**
-- Prompts are optimized to:
-  - Extract concise summaries
-  - Generate level-appropriate quizzes
-  - Rephrase concepts for the chatbot
-
----
-
-## 🔒 Privacy & Ethics
-
-- **Data Ownership:** Institutions own their data.
-- **Student Control:** Students can export or delete their data.
-- **No Raw Audio Stored:** Audio is processed but not retained.
-- **Ethical AI Use:** No grading or high-stakes judgment from AI — purely assistive.
-
----
-
-## 🧭 Vision for the Future
-
-The current system is modular, scalable, and ready for further development. Planned features:
-
-- 🎥 Video support with frame-based tagging.
-- 📚 Adaptive learning paths for students.
-- 📡 Offline class support via upload.
-- 🌍 Multilingual summarization and quizzes.
-- 📲 Mobile companion app with push-based revision alerts.
-
----
-
-## 📌 Summary
-
-| Stakeholder | Benefits |
-|-------------|----------|
-| 👨‍🎓 Students | Never miss a concept. Get summaries, quizzes, and AI help. |
-| 👩‍🏫 Teachers | Know exactly where students are struggling. Improve delivery. |
-| 🏛️ Universities | See impact, engagement, and optimize academic planning. |
-
-> Education is no longer bound by memory or notes — it's enhanced by intelligence.
-
----
-
 ## 🖼️ Visuals & Screenshots
 
 Take a look at how **Virtual Teaching Assistant** looks and feels in action. These visuals showcase key features and UI elements across different user roles including students, teachers, and admins.
